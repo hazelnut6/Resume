@@ -1,0 +1,59 @@
+body {
+    background-color: #004643;
+    text-decoration: none;
+}
+
+
+/* NAVBAR */
+.navbar-brand {
+    color: #fffffe;
+}
+.navbar-brand:hover {
+  color: #fffffe;
+}
+
+
+.top {
+  padding-top: 100px;
+}
+.left, .work {
+    background-color: #abd1c6;
+    color: #001e1d;
+}
+.left {
+    padding: 0%;
+}
+.skill {
+    padding-right: 5px;
+}
+.skill-header {
+    color: black;
+    font-size: 25px;
+    font-weight: 420;
+    text-align: left;
+}
+.progress {
+    background-color: #f9bc60;
+}
+.aboutP {
+    color: #e8e4e6;
+    text-indent: 9%;
+}
+.contactP {
+    padding-left: 15px;
+}
+.skill-header {
+    padding-left: 10px;
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
+.head {
+    color: black;
+    text-align: center;
+    background-color: #abd1c6;
+}
+.column {
+    padding-top: 2px;
+}
